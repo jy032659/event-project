@@ -12,15 +12,9 @@ hostedBy:""
 
 handleFormSubmit=(evt)=>{
     evt.preventDefault();
-    console.log(this.state)
+    
 this.props.createEvent(this.state);
 
-    this.setState({title:"",
-    date:"",
-    city:"",
-    venue:"",
-    hostedBy:""
-    })
 }
 
 handleTitleChange=(evt)=>{
