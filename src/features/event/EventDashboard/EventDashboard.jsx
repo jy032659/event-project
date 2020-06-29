@@ -36,7 +36,7 @@ const eventsFromDashboard = [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin ligula eu leo tincidunt, quis scelerisque magna dapibus. Sed eget ipsum vel arcu vehicula ullamcorper.',
     city: 'London, UK',
-    venue: 'Punch & Judy, Henrietta Street, London, UK',
+    venue: 'Punch & Judy, Henrietta Street, London, United Kingdom',
     hostedBy: 'Tom',
     hostPhotoURL: 'https://randomuser.me/api/portraits/men/22.jpg',
     attendees: [
